@@ -10,7 +10,7 @@ IT professional with almost 5 years of experience in:
 - Backend development with Java and Spring Boot
 - Frontend development with Angular
 - Database systems (PostgreSQL, MySQL, Oracle, SQLServer)
-- Software architecture and best practices (Monolith, Microsservices, Kafka, RabbitMQ, )
+- Software architecture and best practices (Monolith, Microsservices, Kafka, RabbitMQ)
 
 Currently seeking remote opportunities as a backend or full-stack developer.
 
